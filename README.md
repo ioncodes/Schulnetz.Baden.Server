@@ -27,5 +27,5 @@ Parameters:
 
 To use mode 'file' please create 'account.json' in the root folder and fill it like this:
 ```json
-{"user":"<your-username>":"pass":"<your-password>"}
+{"user":"<your-username>","pass":"<your-password>"}
 ```
